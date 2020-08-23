@@ -1,0 +1,64 @@
+body {
+    background: #f1f1f1;
+  }
+ 
+
+.navbar {
+    padding: 10px;
+    background: teal;
+    color:bisque;
+  }
+
+.navbar .navbar-brand {
+    font-weight: bold;
+    background-color: teal;
+    color: whitesmoke;
+    font-size: 18pt;
+    font-family: serif;
+    padding: 10px;
+  }
+    
+.navbar-ul {
+  list-style-type: none;
+  font: black;
+}
+.navbar-li {
+        float: right;
+      
+        
+      }
+  
+a {
+  font-family: serif;
+
+}
+  
+  h4 {
+    font-size: 36pt;
+    color: teal;
+    font-family: serif;
+    padding: 5px;
+    font-weight: bold 
+    
+  }
+
+  h2 {
+      font-size: 36pt;
+      color: teal;
+      font-family: serif;
+      padding: 5px;
+      font-weight: bold 
+
+  }
+
+  p {
+      color: blue;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+
+  }
